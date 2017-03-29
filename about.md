@@ -19,8 +19,8 @@ header-img: "img/green.jpg"
 
 *   杨家镜/男/健身顾问
 *   专科/兰州石化职业技术学院
-*   技术博客: <http://www.jsyangjiajing.com>
-*   Github: <https://github.com/jiajing520>
-*   目前就职于：凯乐菲健身俱乐部（Kailefei Fitness Club)
+*   技术博客: <http://www.jsyangjiajing.com>
+*   Github: <https://github.com/jiajing520>
+*   目前就职于：凯乐菲健身俱乐部（Kailefei Fitness Club)
 
 * * *
