@@ -1,16 +1,16 @@
 # Site settings
-title: 打听幸福的下落
+title: 时光会记得我们
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: ""  
 baseurl: ""
-url: "http://juncheng210.github.io"  
+url: "http://jiajing520.github.io"  
 
 # About/contact
 owner: 
-  name: "打听幸福的下落"
-  email: wujuncheng210@163.com
-  bio: "做自己，简单、真实、幸福、追求、不奢求！"
+  name: "时光会记得我们"
+  email: 1737536406@qq.com
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,8 +18,8 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: juncheng210
-weibo_username: 俊成
+github_username: jiajing520
+weibo_username: 家境
 facebook_username:
 zhihu_username: zhong-shuo-fen-yun-60
 
@@ -34,7 +34,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Lanzhou
+timezone: 中国/西宁
 # Defaults for posts
 defaults:
   -
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "juncheng"
+      author: "杨家境"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : juncheng
+    short_name : jiajing
   disqus :
-      short_name : juncheng
+      short_name : jiajing
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
