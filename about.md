@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "my name is Juncheng Wu.On my way to change"
+description: "我是杨家镜，是一名健身顾问"
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,15 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：wujuncheng210@163.com
-*   QQ/微信号：1329813544/wujuncheng210
-
+*   Email：1737536406@qq.com
+*   QQ/微信号：1737536406/YY1737536406
 * * *
 
 # 个人信息
 
-*   吴俊成/男/1995
+*   杨家镜/男/健身顾问
 *   专科/兰州石化职业技术学院
-*   技术博客: <http://www.wujuncheng.com>
-*   Github: <https://github.com/juncheng210>
-*   目前就职于：
-
+*   技术博客: <http://www.jsyangjiajing.com>
+*   Github: <https://github.com/jiajing520>
+*   目前就职于：凯乐菲健身俱乐部（Kailefei Fitness Club）
 * * *
