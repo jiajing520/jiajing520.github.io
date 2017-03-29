@@ -1,16 +1,16 @@
 # Site settings
-title: Hanson
+title: 打听幸福的下落
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://juncheng210.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
-  bio: ""
+  name: "吴俊成"
+  email: wujuncheng210@163.com
+  bio: "做自己，简单、真实、幸福、追求、不奢求！"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,8 +18,8 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: juncheng210
+weibo_username: 俊成
 facebook_username:
 zhihu_username: zhang-yi-sen-46
 
