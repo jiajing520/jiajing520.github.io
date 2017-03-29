@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "my name is Hanson Zhang.On my way to change"
+description: "my name is Juncheng Wu.On my way to change"
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,17 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：yuanpingzhang123@gmail.com
-*   QQ/微信号：835749634/张远平
+*   Email：wujuncheng210@163.com
+*   QQ/微信号：1329813544/wujuncheng210
 
 * * *
 
 # 个人信息
 
-*   张远平/男/1993
-*   本科/广东工业大学 
-*   技术博客: <http://www.myhanson.com>
-*   Github: <https://github.com/zyphs21>
-*   目前就职于：ZTESoft
+*   吴俊成/男/1995
+*   专科/兰州石化职业技术学院
+*   技术博客: <http://www.wujuncheng.com>
+*   Github: <https://github.com/juncheng210>
+*   目前就职于：
 
 * * *
