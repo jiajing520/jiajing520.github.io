@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于我"
-description: "我是杨家镜，是一名健身顾问"
+description: "我是杨家境，是一名健身顾问"
 header-img: "img/green.jpg"
 ---
 
@@ -18,7 +18,6 @@ header-img: "img/green.jpg"
 # 个人信息
 
 *   杨家镜/男/健身顾问
-*   专科/兰州石化职业技术学院
 *   技术博客: <http://www.jsyangjiajing.com>
 *   Github: <https://github.com/jiajing520>
 *   目前就职于：凯乐菲健身俱乐部（Kailefei Fitness Club)
