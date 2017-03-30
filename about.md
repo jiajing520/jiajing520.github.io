@@ -17,7 +17,7 @@ header-img: "img/green.jpg"
 
 # 个人信息
 
-*   杨家境/男/健身顾问
+*   杨家境/男/健身顾问
 *   技术博客: <http://www.jsyangjiajing.com>
 *   Github: <https://github.com/jiajing520>
 *   目前就职于：凯乐菲健身俱乐部（Kailefei Fitness Club)
