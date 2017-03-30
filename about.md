@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 # 联系方式
 
 *   Email：1737536406@qq.com
-*   QQ/微信号：[1737536406](http://b.qq.com/webc.htm?new=0&sid=1737536406&o=www.jsyangjiajing.com&q=7)/YY1737536406  
+*   QQ/微信号：1737536406/YY1737536406  
 
 * * *
 
