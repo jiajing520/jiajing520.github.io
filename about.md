@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 # 联系方式
 
 *   Email：1737536406@qq.com
-*   QQ/微信号：1737536406/YY1737536406
+*   QQ/微信号：1737536406/YY1737536406  <img  style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=1737536406&o=im.qq.com&q=7', '_blank', 'height=502, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"  border="0" SRC=http://wpa.qq.com/pa?p=1:1737536406:1 alt="点击这里给我发消息">
 
 * * *
 
